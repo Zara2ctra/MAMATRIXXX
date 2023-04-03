@@ -1,4 +1,4 @@
-const CHARACTERS = "КУЛИЧ";
+const CHARACTERS = "アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトホモヨョロヲゴゾドボポヴッン";
 
 export class Column {
     constructor(x, fontSize, canvasHeight, context) {
