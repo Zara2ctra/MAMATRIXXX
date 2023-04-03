@@ -1,4 +1,4 @@
-const CHARACTERS = "NADKTASLZM";
+const CHARACTERS = "КУЛИЧ";
 
 export class Column {
     constructor(x, fontSize, canvasHeight, context) {
